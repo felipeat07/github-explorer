@@ -1,2 +1,2 @@
 # github-explorer
-## Um lista de repositorios do github usando ReactJS
+## A Github repository list using React.js em github API
